@@ -1,0 +1,161 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:01
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-add-a-heart-or-a-like:before { content: "\f100"; }
+.flaticon-amusement-park:before { content: "\f101"; }
+.flaticon-animal-eye-shape:before { content: "\f102"; }
+.flaticon-audience-watching-on-cinema-theater:before { content: "\f103"; }
+.flaticon-baby-with-pacifier:before { content: "\f104"; }
+.flaticon-bat-black-shape-with-open-wings:before { content: "\f105"; }
+.flaticon-bat-black-silhouette:before { content: "\f106"; }
+.flaticon-bat-black-silhouette-variant-with-extended-wings:before { content: "\f107"; }
+.flaticon-bat-black-silhouette-with-opened-wings:before { content: "\f108"; }
+.flaticon-bat-in-medium-size-variant-silhouette:before { content: "\f109"; }
+.flaticon-bat-silhouette:before { content: "\f10a"; }
+.flaticon-bat-silhouette-black-shape-with-wings-forming-a-circle:before { content: "\f10b"; }
+.flaticon-bat-silhouette-with-extended-wings:before { content: "\f10c"; }
+.flaticon-bat-small-silhouette-variant:before { content: "\f10d"; }
+.flaticon-bat-with-big-wings-silhouette:before { content: "\f10e"; }
+.flaticon-bat-with-open-wings-logo-variant:before { content: "\f10f"; }
+.flaticon-bat-with-raised-wings:before { content: "\f110"; }
+.flaticon-bat-with-rounded-sharp-wings-variant:before { content: "\f111"; }
+.flaticon-bat-with-sharp-wings-silhouette:before { content: "\f112"; }
+.flaticon-batman-logo-silhouette:before { content: "\f113"; }
+.flaticon-batman-silhouette:before { content: "\f114"; }
+.flaticon-batman-silhouette-variant:before { content: "\f115"; }
+.flaticon-beer-bottle-and-glass:before { content: "\f116"; }
+.flaticon-black-cat:before { content: "\f117"; }
+.flaticon-blowing-bubbles-toy:before { content: "\f118"; }
+.flaticon-boat-with-flag-outline:before { content: "\f119"; }
+.flaticon-bolt-shape-outline-symbol:before { content: "\f11a"; }
+.flaticon-broken-heart-shape-outline:before { content: "\f11b"; }
+.flaticon-broken-heart-shape-outline-variant:before { content: "\f11c"; }
+.flaticon-bull-side-view-black-animal-shape:before { content: "\f11d"; }
+.flaticon-child-looking-by-binoculars:before { content: "\f11e"; }
+.flaticon-cinema-tickets-for-a-couple:before { content: "\f11f"; }
+.flaticon-circular-ring-of-an-spiral:before { content: "\f120"; }
+.flaticon-circular-shape:before { content: "\f121"; }
+.flaticon-coffee-mug-with-spoon-design:before { content: "\f122"; }
+.flaticon-computer-tablet-with-speech-bubble-variant:before { content: "\f123"; }
+.flaticon-couple-sharing-reading-a-newspaper-together:before { content: "\f124"; }
+.flaticon-cupid-in-flight-silhouette-with-bow-and-arrow:before { content: "\f125"; }
+.flaticon-dome-shaped-building-outline:before { content: "\f126"; }
+.flaticon-doubts-in-human-mind:before { content: "\f127"; }
+.flaticon-eye-cartoon-design-variant:before { content: "\f128"; }
+.flaticon-eye-human-body-part-shape:before { content: "\f129"; }
+.flaticon-eye-of-a-woman-in-love-with-heart-shaped-iris:before { content: "\f12a"; }
+.flaticon-eye-outline-variant-with-heart-shaped-center:before { content: "\f12b"; }
+.flaticon-eye-outline-variant-with-lashes-and-enlarged-pupil:before { content: "\f12c"; }
+.flaticon-eye-outline-with-heart-shape-iris:before { content: "\f12d"; }
+.flaticon-eye-outline-with-spiral-center:before { content: "\f12e"; }
+.flaticon-eye-shape:before { content: "\f12f"; }
+.flaticon-eye-with-curl-lines-design-variant:before { content: "\f130"; }
+.flaticon-eye-with-spiral-iris:before { content: "\f131"; }
+.flaticon-eyes-cartoon-variant-outline:before { content: "\f132"; }
+.flaticon-female-art-portrait-with-stand:before { content: "\f133"; }
+.flaticon-female-with-bangs-outline:before { content: "\f134"; }
+.flaticon-female-with-long-wavy-hair-outline:before { content: "\f135"; }
+.flaticon-film-strip-couple-of-photograms:before { content: "\f136"; }
+.flaticon-fishing-rod-tool-variant:before { content: "\f137"; }
+.flaticon-flower-bloom:before { content: "\f138"; }
+.flaticon-flower-with-4-petals:before { content: "\f139"; }
+.flaticon-flower-with-two-petals:before { content: "\f13a"; }
+.flaticon-fork-and-knife-inside-a-circular-border:before { content: "\f13b"; }
+.flaticon-game-controller-variant:before { content: "\f13c"; }
+.flaticon-geometric-flower:before { content: "\f13d"; }
+.flaticon-geometric-shapes:before { content: "\f13e"; }
+.flaticon-glasses-with-caret-design:before { content: "\f13f"; }
+.flaticon-hand-showing-a-monitor-of-tv-or-computer:before { content: "\f140"; }
+.flaticon-heart-burning-on-flames:before { content: "\f141"; }
+.flaticon-heart-made-with-petals:before { content: "\f142"; }
+.flaticon-heart-of-broken-line:before { content: "\f143"; }
+.flaticon-heart-of-straight-shape-outline-variant:before { content: "\f144"; }
+.flaticon-heart-outline-shape:before { content: "\f145"; }
+.flaticon-heart-shape-made-of-blocks:before { content: "\f146"; }
+.flaticon-heart-shape-made-up-boxes:before { content: "\f147"; }
+.flaticon-heart-shape-outline:before { content: "\f148"; }
+.flaticon-heart-shape-outline-with-banner-label:before { content: "\f149"; }
+.flaticon-heart-shape-outline-with-lining-at-right-edge:before { content: "\f14a"; }
+.flaticon-heart-shape-rounded-edges-variant-with-white-details:before { content: "\f14b"; }
+.flaticon-heart-shape-with-crack-variant:before { content: "\f14c"; }
+.flaticon-heart-shaped-lock:before { content: "\f14d"; }
+.flaticon-heart-shaped-lock-outline:before { content: "\f14e"; }
+.flaticon-heart-shaped-outline-with-cross-lines:before { content: "\f14f"; }
+.flaticon-heart-shaped-outline-with-lock:before { content: "\f150"; }
+.flaticon-heart-shaped-thick-outline-variant:before { content: "\f151"; }
+.flaticon-heart-shaped-with-white-lining-detail:before { content: "\f152"; }
+.flaticon-heart-valentines-symbol:before { content: "\f153"; }
+.flaticon-heart-with-an-ascendant-arrow-inside:before { content: "\f154"; }
+.flaticon-heart-with-gross-outline:before { content: "\f155"; }
+.flaticon-heart-with-text-love-you-inside:before { content: "\f156"; }
+.flaticon-hippopotamus-outline:before { content: "\f157"; }
+.flaticon-horse-black-silhouette:before { content: "\f158"; }
+.flaticon-house-outline-variant-with-sun:before { content: "\f159"; }
+.flaticon-human-body-eye-shape-with-a-spiral-iris:before { content: "\f15a"; }
+.flaticon-human-eye:before { content: "\f15b"; }
+.flaticon-human-opened-eye:before { content: "\f15c"; }
+.flaticon-humming-bird-outline-from-side-view:before { content: "\f15d"; }
+.flaticon-leaf-decoration:before { content: "\f15e"; }
+.flaticon-left-border-art-design-variant:before { content: "\f15f"; }
+.flaticon-man-outline-with-hand-forming-table:before { content: "\f160"; }
+.flaticon-monitor-in-hands:before { content: "\f161"; }
+.flaticon-multiple-arrows-pointing-at-the-center-and-outside:before { content: "\f162"; }
+.flaticon-multiple-raising-hands-with-musical-notes:before { content: "\f163"; }
+.flaticon-muscular-male-torso-outline-inside-a-circle:before { content: "\f164"; }
+.flaticon-musical-notes-couple:before { content: "\f165"; }
+.flaticon-open-book-variant-with-silhouette:before { content: "\f166"; }
+.flaticon-open-hand-outline-holding-cellphone:before { content: "\f167"; }
+.flaticon-open-hands-catching-mobile-phone:before { content: "\f168"; }
+.flaticon-percentage-symbol-inside-a-businessman-head:before { content: "\f169"; }
+.flaticon-pinwheel:before { content: "\f16a"; }
+.flaticon-placeholder-outline-with-check-mark:before { content: "\f16b"; }
+.flaticon-plant-with-a-big-heart-shape:before { content: "\f16c"; }
+.flaticon-playing-cards-with-hearts:before { content: "\f16d"; }
+.flaticon-poisonous-chemical-bottle-with-syringe:before { content: "\f16e"; }
+.flaticon-puppet-show-on-stage-with-curtains:before { content: "\f16f"; }
+.flaticon-random-arrows:before { content: "\f170"; }
+.flaticon-random-shape-outline:before { content: "\f171"; }
+.flaticon-salamander-outline-in-a-curve-position:before { content: "\f172"; }
+.flaticon-scale-symbol-of-justice:before { content: "\f173"; }
+.flaticon-seal-face:before { content: "\f174"; }
+.flaticon-side-view-woman-silhouette:before { content: "\f175"; }
+.flaticon-spirals-floral-design:before { content: "\f176"; }
+.flaticon-sun-at-sunrise-or-sunset:before { content: "\f177"; }
+.flaticon-tablet-on-hand:before { content: "\f178"; }
+.flaticon-tablet-on-hands:before { content: "\f179"; }
+.flaticon-test-tubes-couple-for-chemistry:before { content: "\f17a"; }
+.flaticon-valentines-day-heart:before { content: "\f17b"; }
+.flaticon-valentines-heart-outline-shape-with-ribbon-tails-couple:before { content: "\f17c"; }
+.flaticon-video-symbol-with-heart-shape:before { content: "\f17d"; }
+.flaticon-vintage-type-television-outline:before { content: "\f17e"; }
+.flaticon-vintage-ufo:before { content: "\f17f"; }
+.flaticon-wine-bottle-and-small-glass:before { content: "\f180"; }
+.flaticon-winner-medal:before { content: "\f181"; }
